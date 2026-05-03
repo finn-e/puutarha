@@ -14,8 +14,8 @@ configuration:
     - .obsidian
 plugins:
   - source: quartz-themes
-    repo: "https://github.com/saberzero1/quartz-themes.git"
-    subdir: plugins
+      repo: "https://github.com/saberzero1/quartz-themes.git"
+      subdir: plugins
     enabled: true
     options:
       theme: catppuccin
