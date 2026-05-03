@@ -1,4 +1,4 @@
-name: Deploy v5 Preview
+name: Deploy v5 to Subdirectory
 
 on:
   push:
@@ -7,14 +7,15 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  deployments: write
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy-v5:
     if: ${{ github.repository == 'finn-e/puutarha' }}
     runs-on: ubuntu-latest
-    name: Deploy v5 to Cloudflare Pages
+    name: Build Quartz and Push to Subfolder
     steps:
       - uses: actions/checkout@v6
         with:
@@ -23,7 +24,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v6
         with:
-          node-version: 24
+          node-version: 22
 
       - name: Cache dependencies
         uses: actions/cache@v5
@@ -41,7 +42,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-plugins-
 
-      - run: npm ci
+      - name: Install dependencies
+        run: npm ci
 
       - name: Install Quartz plugins
         run: npx quartz plugin install
@@ -50,15 +52,14 @@ jobs:
         run: npm run check
 
       - name: Build Quartz
-        run: npx quartz build -d docs -v
+        run: npx quartz build -v
 
-      - name: Deploy to Cloudflare Pages
-        uses: AdrianGonz97/refined-cf-pages-action@v1
+      - name: Deploy to finn-e.github.io Subfolder
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          githubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: quartz
-          deploymentName: v5
-          branch: v5
-          directory: public
+          folder: public
+          repository-name: finn-e/finn-e.github.io
+          token: ${{ secrets.FINNE_GITHUB_IO }}
+          branch: gh-pages
+          target-folder: puutarha
+          clean: true
