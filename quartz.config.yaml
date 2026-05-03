@@ -12,6 +12,13 @@ configuration:
     - private
     - templates
     - .obsidian
+theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: Schibsted Grotesk
+      body: Source Sans Pro
+      code: IBM Plex Mono
 plugins:
   - source: 
       name: quartz-themes
