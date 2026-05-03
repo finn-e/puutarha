@@ -13,7 +13,8 @@ configuration:
     - templates
     - .obsidian
 plugins:
-  - source: quartz-themes
+  - source: 
+      name: quartz-themes
       repo: "https://github.com/saberzero1/quartz-themes.git"
       subdir: plugins
     enabled: true
