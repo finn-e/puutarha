@@ -13,6 +13,6 @@ confidence: stable
 
 ### Even subber header
 
-- [x] Take out trash ➕ 2026-05-03 ✅ 2026-05-04
-- [x] Call mom ➕ 2026-05-03 ✅ 2026-05-04
-- [x] Do something else ➕ 2026-05-03 ✅ 2026-05-04
+- [ ] Take out trash ➕ 2026-05-03
+- [ ] Call mom ➕ 2026-05-03
+- [ ] Do something else ➕ 2026-05-03
