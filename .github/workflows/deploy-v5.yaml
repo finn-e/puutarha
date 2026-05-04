@@ -59,6 +59,5 @@ jobs:
           repository-name: finn-e/finn-e.github.io
           token: ${{ secrets.FINNE_GITHUB_IO }}
           branch: gh-pages
-          target-folder: puutarha
           clean: true
           
