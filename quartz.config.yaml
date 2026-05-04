@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: finn-e.github.io/puutarha
+  baseUrl: finn-e.github.io
   ignorePatterns:
     - private
     - templates
