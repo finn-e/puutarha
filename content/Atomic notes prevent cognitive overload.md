@@ -1,11 +1,9 @@
 ---
 publish: true
 gemini: true
-tags:
-  - pkm
-  - mechanical_keyboards
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+tags: [pkm, mechanical_keyboards]
+created: 2026-05-04 11:58:00
+last_modified: 2026-05-04 12:49:16
 status: evergreen
 confidence: fact
 ---

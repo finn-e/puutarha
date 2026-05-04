@@ -1,11 +1,9 @@
 ---
 publish: true
 gemini: true
-tags:
-  - pkm
-  - creativity
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+tags: [pkm, creativity]
+created: 2026-05-04 11:58:00
+last_modified: 2026-05-04 12:51:54
 status: evergreen
 confidence: stable
 ---

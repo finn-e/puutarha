@@ -1,11 +1,9 @@
 ---
 publish: true
 gemini: true
-tags:
-  - systems_thinking
-  - botany
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+tags: [systems_thinking, botany]
+created: 2026-05-04 11:58:00
+last_modified: 2026-05-04 12:51:39
 status: evergreen
 confidence: fact
 ---

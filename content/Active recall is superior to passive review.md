@@ -1,11 +1,9 @@
 ---
 publish: true
 gemini: true
-tags:
-  - learning
-  - game_studies
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+tags: [learning, game_studies]
+created: 2026-05-04 11:58:00
+last_modified: 2026-05-04 12:49:22
 status: evergreen
 confidence: fact
 ---

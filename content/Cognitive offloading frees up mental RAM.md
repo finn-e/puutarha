@@ -1,11 +1,9 @@
 ---
 publish: true
 gemini: true
-tags:
-  - cognition
-  - habits
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+tags: [cognition, habits]
+created: 2026-05-04 11:58:00
+last_modified: 2026-05-04 12:49:18
 status: evergreen
 confidence: stable
 ---
