@@ -12,6 +12,6 @@ confidence: fact
 
 # Artificial deadlines stimulate focus
 
-Self-imposed time constraints can trigger a mild stress response that heightens urgency and drops you into a flow state. It is functionally similar to how [[Artificial constraints in games generate fun]].
+Self-imposed time constraints can trigger a mild stress response that heightens urgency and drops you into a flow state. It is functionally similar to how [[Artificial constraints in games generate fun]].[^1]
 
 [^1]: Ariely, D., & Wertenbroch, K. (2002). Procrastination, Deadlines, and Performance. Psychological Science.

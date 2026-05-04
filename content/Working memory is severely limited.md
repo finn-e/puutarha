@@ -12,6 +12,6 @@ confidence: fact
 
 # Working memory is severely limited
 
-The human brain can actively hold only roughly seven items in its short-term cache at any given moment. Recognizing this limitation is why [[Ergonomic hardware reduces physical cognitive load]] so you can focus entirely on the logic.
+The human brain can actively hold only roughly seven items in its short-term cache at any given moment. Recognizing this limitation is why [[Ergonomic hardware reduces physical cognitive load]] so you can focus entirely on the logic.[^1]
 
 [^1]: Miller, G. A. (1956). The magical number seven, plus or minus two. Psychological Review.

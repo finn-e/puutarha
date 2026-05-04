@@ -12,6 +12,6 @@ confidence: stable
 
 # Cognitive offloading frees up mental RAM
 
-Writing tasks down in an external, trusted system saves the brain from wasting energy trying to remember them. For example, an [[Automated feeding systems remove human bottleneck]] by offloading pet care memory entirely.
+Writing tasks down in an external, trusted system saves the brain from wasting energy trying to remember them. For example, an [[Automated feeding systems remove human bottleneck]] by offloading pet care memory entirely.[^1]
 
 [^1]: Risko, E. F., & Gilbert, S. J. (2016). Cognitive Offloading. Trends in Cognitive Sciences.

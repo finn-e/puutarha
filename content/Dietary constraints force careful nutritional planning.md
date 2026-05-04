@@ -12,6 +12,6 @@ confidence: stable
 
 # Dietary constraints force careful nutritional planning
 
-Managing highly specific pet health conditions forces owners to meticulously read labels, calculate hydration, and discover novel treating methods. These strict health boundaries prove that [[Constraints breed creative solutions]].
+Managing highly specific pet health conditions forces owners to meticulously read labels, calculate hydration, and discover novel treating methods. These strict health boundaries prove that [[Constraints breed creative solutions]].[^1]
 
 [^1]: Dodds, W. J. (2015). Canine Nutrigenomics. Dogwise Publishing.

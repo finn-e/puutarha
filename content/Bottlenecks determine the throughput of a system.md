@@ -12,6 +12,6 @@ confidence: fact
 
 # Bottlenecks determine the throughput of a system
 
-A pipeline can only process volume at the exact speed of its most restricted constraint; improving anything else is an illusion of progress. In city planning, [[Mass transit reduces the tragedy of the commons]] by fundamentally widening the physical bottleneck.
+A pipeline can only process volume at the exact speed of its most restricted constraint; improving anything else is an illusion of progress. In city planning, [[Mass transit reduces the tragedy of the commons]] by fundamentally widening the physical bottleneck.[^1]
 
 [^1]: Goldratt, E. M. (1984). The Goal. North River Press.

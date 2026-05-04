@@ -12,6 +12,6 @@ confidence: fact
 
 # LLMs act as probabilistic reasoning engines
 
-Large Language Models do not 'know' facts; they predict the next highly probable token based on training distributions. Because they act as massive statistical models, they mirror how [[High-energy physics relies on massive statistical datasets]].
+Large Language Models do not 'know' facts; they predict the next highly probable token based on training distributions. Because they act as massive statistical models, they mirror how [[High-energy physics relies on massive statistical datasets]].[^1]
 
 [^1]: Vaswani, A., et al. (2017). Attention Is All You Need. NeurIPS.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Infrastructure as code ensures reproducible environments
 
-Defining servers and networks via configuration files rather than manual clicks prevents configuration drift and allows automated disaster recovery. It directly combats the fact that [[Systems decay without active maintenance]].
+Defining servers and networks via configuration files rather than manual clicks prevents configuration drift and allows automated disaster recovery. It directly combats the fact that [[Systems decay without active maintenance]].[^1]
 
 [^1]: Morris, K. (2016). Infrastructure as Code. O'Reilly Media.

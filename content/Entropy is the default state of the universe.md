@@ -12,6 +12,6 @@ confidence: fact
 
 # Entropy is the default state of the universe
 
-Without the constant, deliberate application of external energy, all organized systems will naturally degrade into chaotic states. This cosmic absolute guarantees that [[Systems decay without active maintenance]].
+Without the constant, deliberate application of external energy, all organized systems will naturally degrade into chaotic states. This cosmic absolute guarantees that [[Systems decay without active maintenance]].[^1]
 
 [^1]: Clausius, R. (1865). The Mechanical Theory of Heat.

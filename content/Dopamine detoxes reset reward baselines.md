@@ -12,6 +12,6 @@ confidence: stable
 
 # Dopamine detoxes reset reward baselines
 
-Temporarily abstaining from high-stimulation digital activities allows down-regulated dopamine receptors to recover, making analog activities enjoyable again. [[Gardening grounds mental health in physical reality]] by providing healthy, slow stimulation.
+Temporarily abstaining from high-stimulation digital activities allows down-regulated dopamine receptors to recover, making analog activities enjoyable again. [[Gardening grounds mental health in physical reality]] by providing healthy, slow stimulation.[^1]
 
 [^1]: Lembke, A. (2021). Dopamine Nation. Dutton.

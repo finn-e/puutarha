@@ -12,6 +12,6 @@ confidence: fact
 
 # Vertical staggering matches human finger physiology
 
-Because the human middle finger is drastically longer than the pinky, standard horizontal keyboard staggering forces unnatural lateral wrist movements. Columnar stagger fixes this, proving that [[Ergonomic hardware reduces physical cognitive load]].
+Because the human middle finger is drastically longer than the pinky, standard horizontal keyboard staggering forces unnatural lateral wrist movements. Columnar stagger fixes this, proving that [[Ergonomic hardware reduces physical cognitive load]].[^1]
 
 [^1]: Marklin, R. W., et al. (1999). Effect of keyboard layout on wrist kinematics. Ergonomics.

@@ -12,6 +12,6 @@ confidence: stable
 
 # Observability is more than just logging
 
-True observability means you can fully understand the internal state of a highly distributed system purely by asking questions of its external outputs. It is required because [[Abstractions leak at their boundaries]] under heavy load.
+True observability means you can fully understand the internal state of a highly distributed system purely by asking questions of its external outputs. It is required because [[Abstractions leak at their boundaries]] under heavy load.[^1]
 
 [^1]: Majors, C. (2017). Observability — A 3-Year Retrospective.

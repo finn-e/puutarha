@@ -12,6 +12,6 @@ confidence: stable
 
 # Batching reduces cognitive friction
 
-Grouping structurally similar tasks minimizes the startup costs associated with shifting mental contexts. It is a biological equivalent to how [[Multi-material printing requires precise purge calibration]] to avoid toolhead switching delays.
+Grouping structurally similar tasks minimizes the startup costs associated with shifting mental contexts. It is a biological equivalent to how [[Multi-material printing requires precise purge calibration]] to avoid toolhead switching delays.[^1]
 
 [^1]: Newport, C. (2016). Deep Work. Grand Central Publishing.

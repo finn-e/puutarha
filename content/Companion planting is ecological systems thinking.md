@@ -12,6 +12,6 @@ confidence: stable
 
 # Companion planting is ecological systems thinking
 
-Planting basil next to tomatoes naturally repels specific insects while altering the soil chemistry to improve the fruit's flavor, creating a symbiotic micro-environment. This overlapping protection demonstrates how [[Redundancy prevents single points of failure]].
+Planting basil next to tomatoes naturally repels specific insects while altering the soil chemistry to improve the fruit's flavor, creating a symbiotic micro-environment. This overlapping protection demonstrates how [[Redundancy prevents single points of failure]].[^1]
 
 [^1]: Riotte, L. (1998). Carrots Love Tomatoes. Storey Publishing.

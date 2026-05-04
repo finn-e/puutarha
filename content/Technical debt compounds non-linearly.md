@@ -12,6 +12,6 @@ confidence: fact
 
 # Technical debt compounds non-linearly
 
-Taking architectural shortcuts saves hours today but dramatically increases the cost of implementing future features. In biological systems, [[Preventive veterinary care reduces non-linear health debt]] by addressing issues before they cascade.
+Taking architectural shortcuts saves hours today but dramatically increases the cost of implementing future features. In biological systems, [[Preventive veterinary care reduces non-linear health debt]] by addressing issues before they cascade.[^1]
 
 [^1]: Cunningham, W. (1992). The WyCash Portfolio Management System. OOPSLA.

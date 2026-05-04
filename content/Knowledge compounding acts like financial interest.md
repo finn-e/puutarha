@@ -12,6 +12,6 @@ confidence: fact
 
 # Knowledge compounding acts like financial interest
 
-Small, incremental additions to a linked note system grow exponentially in value over time as the network effects take hold. This non-linear growth is the inverse of how [[Technical debt compounds non-linearly]].
+Small, incremental additions to a linked note system grow exponentially in value over time as the network effects take hold. This non-linear growth is the inverse of how [[Technical debt compounds non-linearly]].[^1]
 
 [^1]: Clear, J. (2018). Atomic Habits (Chapter 1). Avery.

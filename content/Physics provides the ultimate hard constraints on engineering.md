@@ -12,6 +12,6 @@ confidence: fact
 
 # Physics provides the ultimate hard constraints on engineering
 
-While software logic can loop infinitely, the hardware it runs on is ultimately constrained by the speed of light, thermal dissipation, and atomic structures. Eventually, [[Abstractions leak at their boundaries]] because the silicon gets too hot.
+While software logic can loop infinitely, the hardware it runs on is ultimately constrained by the speed of light, thermal dissipation, and atomic structures. Eventually, [[Abstractions leak at their boundaries]] because the silicon gets too hot.[^1]
 
 [^1]: Landauer, R. (1961). Irreversibility and Heat Generation in the Computing Process.

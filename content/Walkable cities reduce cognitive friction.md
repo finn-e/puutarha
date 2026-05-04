@@ -12,6 +12,6 @@ confidence: stable
 
 # Walkable cities reduce cognitive friction
 
-When groceries, transit, and community are within a dense 15-minute walk, the massive background stress of navigating high-speed traffic disappears entirely. Shaping the city to fit the human proves [[Environment design is more reliable than willpower]].
+When groceries, transit, and community are within a dense 15-minute walk, the massive background stress of navigating high-speed traffic disappears entirely. Shaping the city to fit the human proves [[Environment design is more reliable than willpower]].[^1]
 
 [^1]: Speck, J. (2012). Walkable City. Farrar, Straus and Giroux.

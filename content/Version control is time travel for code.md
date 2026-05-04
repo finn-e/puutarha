@@ -12,6 +12,6 @@ confidence: fact
 
 # Version control is time travel for code
 
-Git provides a cryptographically secure, immutable ledger of all changes, enabling fearless refactoring because any state can be restored. At an enterprise scale, [[Infrastructure as code ensures reproducible environments]].
+Git provides a cryptographically secure, immutable ledger of all changes, enabling fearless refactoring because any state can be restored. At an enterprise scale, [[Infrastructure as code ensures reproducible environments]].[^1]
 
 [^1]: Chacon, S., & Straub, B. (2014). Pro Git. Apress.

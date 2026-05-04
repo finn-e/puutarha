@@ -12,6 +12,6 @@ confidence: fact
 
 # Project-based learning provides necessary context
 
-Applying new knowledge immediately to build a tangible artifact grounds abstract theory in physical reality. Using CAD to print parts proves this, as [[Rapid prototyping accelerates the feedback loop]].
+Applying new knowledge immediately to build a tangible artifact grounds abstract theory in physical reality. Using CAD to print parts proves this, as [[Rapid prototyping accelerates the feedback loop]].[^1]
 
 [^1]: Thomas, J. W. (2000). A review of research on project-based learning. Autodesk Foundation.

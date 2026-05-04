@@ -12,6 +12,6 @@ confidence: stable
 
 # Metacognition improves learning efficiency
 
-The ability to actively evaluate and adjust your own thought processes allows you to abandon failing strategies faster. This is inherently why [[Teaching is the highest form of understanding]].
+The ability to actively evaluate and adjust your own thought processes allows you to abandon failing strategies faster. This is inherently why [[Teaching is the highest form of understanding]].[^1]
 
 [^1]: Flavell, J. H. (1979). Metacognition and cognitive monitoring. American Psychologist.

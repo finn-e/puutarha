@@ -12,6 +12,6 @@ confidence: fact
 
 # Thermodynamics governs system efficiency
 
-The laws of heat transfer and entropy dictate the absolute performance limits of everything from server farms to FDM hotends. You cannot cheat energy conservation, meaning [[Bed adhesion is a function of thermodynamics and surface area]].
+The laws of heat transfer and entropy dictate the absolute performance limits of everything from server farms to FDM hotends. You cannot cheat energy conservation, meaning [[Bed adhesion is a function of thermodynamics and surface area]].[^1]
 
 [^1]: Carnot, S. (1824). Reflections on the Motive Power of Fire.

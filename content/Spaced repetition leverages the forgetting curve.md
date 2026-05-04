@@ -12,6 +12,6 @@ confidence: fact
 
 # Spaced repetition leverages the forgetting curve
 
-Reviewing information at systematically increasing intervals forces the brain to retrieve it just as it is about to be forgotten, cementing it long-term. This proves that [[Active recall is superior to passive review]].
+Reviewing information at systematically increasing intervals forces the brain to retrieve it just as it is about to be forgotten, cementing it long-term. This proves that [[Active recall is superior to passive review]].[^1]
 
 [^1]: Ebbinghaus, H. (1885). Memory: A Contribution to Experimental Psychology.

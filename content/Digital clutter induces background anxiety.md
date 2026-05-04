@@ -12,6 +12,6 @@ confidence: fact
 
 # Digital clutter induces background anxiety
 
-A desktop full of chaotic files and an inbox with thousands of unread emails creates an ambient, low-level cognitive tax. Cleaning the workspace is vital; [[Weekly reviews close open loops]].
+A desktop full of chaotic files and an inbox with thousands of unread emails creates an ambient, low-level cognitive tax. Cleaning the workspace is vital; [[Weekly reviews close open loops]].[^1]
 
 [^1]: McMains, S., & Kastner, S. (2011). Interactions of top-down and bottom-up mechanisms in human visual cortex. JNeurosci.

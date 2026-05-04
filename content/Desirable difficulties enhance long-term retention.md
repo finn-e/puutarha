@@ -12,6 +12,6 @@ confidence: fact
 
 # Desirable difficulties enhance long-term retention
 
-Introducing calculated friction into the learning process slows initial acquisition but results in far superior long-term memory durability. This is mirrored in gameplay, where [[Non-violent game paths require more complex level design]].
+Introducing calculated friction into the learning process slows initial acquisition but results in far superior long-term memory durability. This is mirrored in gameplay, where [[Non-violent game paths require more complex level design]].[^1]
 
 [^1]: Bjork, R. A. (1994). Memory and metamemory considerations in the training of human beings.

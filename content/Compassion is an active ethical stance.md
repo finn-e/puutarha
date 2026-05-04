@@ -12,6 +12,6 @@ confidence: stable
 
 # Compassion is an active ethical stance
 
-Deciding to prioritize the comfort, health, and psychological well-being of another species requires deliberate daily action, not just passive feeling. Committing to this philosophy proves that [[Meaningful choices in games require permanent consequences]].
+Deciding to prioritize the comfort, health, and psychological well-being of another species requires deliberate daily action, not just passive feeling. Committing to this philosophy proves that [[Meaningful choices in games require permanent consequences]].[^1]
 
 [^1]: Singer, P. (1975). Animal Liberation. HarperCollins.

@@ -12,6 +12,6 @@ confidence: stable
 
 # Simplicity is the hardest engineering metric to achieve
 
-Creating a highly complex solution is relatively easy; boiling a complex problem down to its most elegant, minimal logic takes profound mastery. For example, [[Ortholinear layouts minimize finger travel distance]] through radical simplification.
+Creating a highly complex solution is relatively easy; boiling a complex problem down to its most elegant, minimal logic takes profound mastery. For example, [[Ortholinear layouts minimize finger travel distance]] through radical simplification.[^1]
 
 [^1]: Hoare, C. A. R. (1980). The Emperor's Old Clothes. Communications of the ACM.

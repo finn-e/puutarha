@@ -12,6 +12,6 @@ confidence: fact
 
 # CoreXY kinematics enable high-speed deposition
 
-By separating the heavy stepper motors from the moving toolhead, CoreXY printers like the Bambu P2S drastically reduce moving mass, allowing for extreme acceleration without ghosting. This design elegance shows how [[First principles thinking strips assumptions]].
+By separating the heavy stepper motors from the moving toolhead, CoreXY printers like the Bambu P2S drastically reduce moving mass, allowing for extreme acceleration without ghosting. This design elegance shows how [[First principles thinking strips assumptions]].[^1]
 
 [^1]: Ilan Moyer. (2012). CoreXY Kinematic Architecture.

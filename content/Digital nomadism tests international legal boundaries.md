@@ -12,6 +12,6 @@ confidence: stable
 
 # Digital nomadism tests international legal boundaries
 
-Earning an income in one country while utilizing the physical infrastructure of another exposes massive loopholes in 20th-century taxation geography. Asserting this kind of geographical independence mimics how [[Self-hosting reclaims digital sovereignty]].
+Earning an income in one country while utilizing the physical infrastructure of another exposes massive loopholes in 20th-century taxation geography. Asserting this kind of geographical independence mimics how [[Self-hosting reclaims digital sovereignty]].[^1]
 
 [^1]: O'Neil, C. (2016). Weapons of Math Destruction. Crown Books.

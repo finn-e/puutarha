@@ -12,6 +12,6 @@ confidence: fact
 
 # Bicycles offer the highest energy efficiency of any vehicle
 
-By utilizing gears to translate human muscular exertion directly into forward momentum with almost zero thermal loss, a bicycle achieves unmatched thermodynamic efficiency. This mechanical perfection proves [[Thermodynamics governs system efficiency]].
+By utilizing gears to translate human muscular exertion directly into forward momentum with almost zero thermal loss, a bicycle achieves unmatched thermodynamic efficiency. This mechanical perfection proves [[Thermodynamics governs system efficiency]].[^1]
 
 [^1]: Wilson, D. G. (2004). Bicycling Science. MIT Press.

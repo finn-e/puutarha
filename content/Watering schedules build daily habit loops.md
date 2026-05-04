@@ -12,6 +12,6 @@ confidence: stable
 
 # Watering schedules build daily habit loops
 
-The absolute necessity of tending to living, growing things establishes an unbreakable morning routine, acting as a powerful physical anchor for the day. This leverages the fact that [[Habits are driven by the cue-routine-reward loop]].
+The absolute necessity of tending to living, growing things establishes an unbreakable morning routine, acting as a powerful physical anchor for the day. This leverages the fact that [[Habits are driven by the cue-routine-reward loop]].[^1]
 
 [^1]: Clear, J. (2018). Atomic Habits. Avery.

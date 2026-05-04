@@ -12,6 +12,6 @@ confidence: stable
 
 # Test-driven development forces API design upfront
 
-Writing the tests before writing the implementation forces the developer to consider how the code will be consumed rather than how it will be built. It ensures that [[Second-order effects matter more than immediate outcomes]].
+Writing the tests before writing the implementation forces the developer to consider how the code will be consumed rather than how it will be built. It ensures that [[Second-order effects matter more than immediate outcomes]].[^1]
 
 [^1]: Beck, K. (2003). Test-Driven Development: By Example. Addison-Wesley.

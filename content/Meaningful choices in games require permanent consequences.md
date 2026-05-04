@@ -12,6 +12,6 @@ confidence: stable
 
 # Meaningful choices in games require permanent consequences
 
-If a player can easily save-scum to undo a bad dialogue choice or an NPC death, the narrative weight of the decision evaporates. Real weight demands that [[Second-order effects matter more than immediate outcomes]].
+If a player can easily save-scum to undo a bad dialogue choice or an NPC death, the narrative weight of the decision evaporates. Real weight demands that [[Second-order effects matter more than immediate outcomes]].[^1]
 
 [^1]: Salen, K., & Zimmerman, E. (2003). Rules of Play: Game Design Fundamentals.

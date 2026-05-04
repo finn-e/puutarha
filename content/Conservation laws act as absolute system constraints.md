@@ -12,6 +12,6 @@ confidence: fact
 
 # Conservation laws act as absolute system constraints
 
-Because energy and momentum can neither be created nor destroyed, engineers must account for where every joule goes within a closed system. These strict boundaries force brilliant workarounds, proving that [[Constraints breed creative solutions]].
+Because energy and momentum can neither be created nor destroyed, engineers must account for where every joule goes within a closed system. These strict boundaries force brilliant workarounds, proving that [[Constraints breed creative solutions]].[^1]
 
 [^1]: Noether, E. (1918). Invariante Variationsprobleme. (Noether's Theorem)

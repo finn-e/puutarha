@@ -12,6 +12,6 @@ confidence: fact
 
 # Preventive veterinary care reduces non-linear health debt
 
-Routine dental cleanings and blood panels cost money upfront but prevent massive, life-threatening organ failures later in the animal's life. In living systems and codebases alike, [[Technical debt compounds non-linearly]].
+Routine dental cleanings and blood panels cost money upfront but prevent massive, life-threatening organ failures later in the animal's life. In living systems and codebases alike, [[Technical debt compounds non-linearly]].[^1]
 
 [^1]: American Veterinary Medical Association (AVMA). (2023). Preventive Healthcare Guidelines.

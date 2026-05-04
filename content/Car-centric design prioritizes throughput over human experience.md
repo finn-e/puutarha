@@ -12,6 +12,6 @@ confidence: fact
 
 # Car-centric design prioritizes throughput over human experience
 
-Bulldozing dense, walkable neighborhoods to construct interstates successfully increases vehicle speeds but entirely destroys the social fabric and economic vitality of the local area. It is a grim reminder that [[Second-order effects matter more than immediate outcomes]].
+Bulldozing dense, walkable neighborhoods to construct interstates successfully increases vehicle speeds but entirely destroys the social fabric and economic vitality of the local area. It is a grim reminder that [[Second-order effects matter more than immediate outcomes]].[^1]
 
 [^1]: Caro, R. A. (1974). The Power Broker: Robert Moses and the Fall of New York.

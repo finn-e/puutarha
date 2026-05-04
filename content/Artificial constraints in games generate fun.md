@@ -12,6 +12,6 @@ confidence: fact
 
 # Artificial constraints in games generate fun
 
-If you can just walk to a golf hole and drop the ball in, there is no game; the fun exists entirely because you must use a stick to hit it across the grass. Imposing rules creates the puzzle, proving [[Constraints breed creative solutions]].
+If you can just walk to a golf hole and drop the ball in, there is no game; the fun exists entirely because you must use a stick to hit it across the grass. Imposing rules creates the puzzle, proving [[Constraints breed creative solutions]].[^1]
 
 [^1]: Suits, B. (1978). The Grasshopper: Games, Life and Utopia.

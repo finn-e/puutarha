@@ -12,6 +12,6 @@ confidence: fact
 
 # The attention economy monetizes distraction
 
-In platforms where access is free, human focus is the actual product being aggregated and sold to advertisers. Acknowledging this global business model is similar to realizing [[Standardized international law reduces interaction friction]].
+In platforms where access is free, human focus is the actual product being aggregated and sold to advertisers. Acknowledging this global business model is similar to realizing [[Standardized international law reduces interaction friction]].[^1]
 
 [^1]: Wu, T. (2016). The Attention Merchants. Knopf.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Filament moisture degrades structural integrity
 
-Hydroscopic plastics like PETG and Nylon absorb ambient water, which turns to steam inside the hotend, resulting in popping, stringing, and weak layer adhesion. This physical reality confirms that [[Thermodynamics governs system efficiency]].
+Hydroscopic plastics like PETG and Nylon absorb ambient water, which turns to steam inside the hotend, resulting in popping, stringing, and weak layer adhesion. This physical reality confirms that [[Thermodynamics governs system efficiency]].[^1]
 
 [^1]: RepRap Community. (2020). Effects of moisture on FDM polymers.

@@ -12,6 +12,6 @@ confidence: stable
 
 # Train schedules are massive distributed coordination problems
 
-Routing hundreds of tons of steel across shared tracks requires precise timing, fail-safes, and signal prioritization to prevent catastrophic collisions. Managing these physical nodes is akin to SRE, where [[Uptime is a trailing indicator of system health]].
+Routing hundreds of tons of steel across shared tracks requires precise timing, fail-safes, and signal prioritization to prevent catastrophic collisions. Managing these physical nodes is akin to SRE, where [[Uptime is a trailing indicator of system health]].[^1]
 
 [^1]: Pachl, J. (2002). Railway Operation and Control. VTD Rail Publishing.

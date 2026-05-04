@@ -12,6 +12,6 @@ confidence: fact
 
 # Part orientation determines layer shear strength
 
-Because FDM printing stacks discrete 2D layers, the resulting 3D object is highly susceptible to shearing along the Z-axis. Engineers must orient parts so that load-bearing forces run perpendicular to the layer lines, as [[Physics provides the ultimate hard constraints on engineering]].
+Because FDM printing stacks discrete 2D layers, the resulting 3D object is highly susceptible to shearing along the Z-axis. Engineers must orient parts so that load-bearing forces run perpendicular to the layer lines, as [[Physics provides the ultimate hard constraints on engineering]].[^1]
 
 [^1]: Prusa Research. (2023). Mechanical properties of 3D prints.

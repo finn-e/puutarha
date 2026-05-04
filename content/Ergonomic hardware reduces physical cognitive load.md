@@ -12,6 +12,6 @@ confidence: stable
 
 # Ergonomic hardware reduces physical cognitive load
 
-When your wrists don't ache and your fingers naturally fall on the correct modifiers, the brain allocates zero processing power to the act of typing. Because [[Working memory is severely limited]], reclaiming this bandwidth is vital for deep work.
+When your wrists don't ache and your fingers naturally fall on the correct modifiers, the brain allocates zero processing power to the act of typing. Because [[Working memory is severely limited]], reclaiming this bandwidth is vital for deep work.[^1]
 
 [^1]: Hedge, A. (2016). Ergonomics and Cognitive Load. Human Factors.

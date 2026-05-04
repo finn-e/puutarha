@@ -12,6 +12,6 @@ confidence: stable
 
 # Capture is distinct from processing
 
-Recording raw information is a different cognitive process than synthesizing it into knowledge. You must separate the inbox from the archive, much like how [[Batching reduces cognitive friction]] in daily tasks.
+Recording raw information is a different cognitive process than synthesizing it into knowledge. You must separate the inbox from the archive, much like how [[Batching reduces cognitive friction]] in daily tasks.[^1]
 
 [^1]: Allen, D. (2001). Getting Things Done. Penguin Books.

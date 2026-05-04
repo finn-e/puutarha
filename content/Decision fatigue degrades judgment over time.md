@@ -12,6 +12,6 @@ confidence: fact
 
 # Decision fatigue degrades judgment over time
 
-The continuous act of making choices depletes willpower, leading to impulsive or passive decisions later in the day. This psychological drain is exactly why [[Automating toil prevents SRE burnout]].
+The continuous act of making choices depletes willpower, leading to impulsive or passive decisions later in the day. This psychological drain is exactly why [[Automating toil prevents SRE burnout]].[^1]
 
 [^1]: Baumeister, R. F., et al. (1998). Ego depletion: Is the active self a limited resource? JPSP.

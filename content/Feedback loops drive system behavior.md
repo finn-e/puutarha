@@ -12,6 +12,6 @@ confidence: fact
 
 # Feedback loops drive system behavior
 
-Positive loops amplify changes exponentially, while negative loops seek equilibrium and stabilize systems. Mapping these loops is crucial, as [[Global supply chains are highly optimized and fragile]] when loops run out of control.
+Positive loops amplify changes exponentially, while negative loops seek equilibrium and stabilize systems. Mapping these loops is crucial, as [[Global supply chains are highly optimized and fragile]] when loops run out of control.[^1]
 
 [^1]: Senge, P. M. (1990). The Fifth Discipline. Doubleday/Currency.

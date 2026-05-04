@@ -12,6 +12,6 @@ confidence: fact
 
 # Automating toil prevents SRE burnout
 
-Manual, repetitive, non-enduring operational work destroys engineering morale and consumes time that should be spent engineering self-healing systems. Reclaiming this time honors the principle that [[Energy management supersedes time management]].
+Manual, repetitive, non-enduring operational work destroys engineering morale and consumes time that should be spent engineering self-healing systems. Reclaiming this time honors the principle that [[Energy management supersedes time management]].[^1]
 
 [^1]: Beyer, B., et al. (2016). Site Reliability Engineering. O'Reilly Media.

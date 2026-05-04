@@ -12,6 +12,6 @@ confidence: fact
 
 # Confirmation bias limits objective analysis
 
-Humans naturally seek out, favor, and recall information that validates their pre-existing hypotheses. Overcoming this cognitive flaw requires discipline, demonstrating why [[First principles thinking strips assumptions]].
+Humans naturally seek out, favor, and recall information that validates their pre-existing hypotheses. Overcoming this cognitive flaw requires discipline, demonstrating why [[First principles thinking strips assumptions]].[^1]
 
 [^1]: Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon. Review of General Psychology.

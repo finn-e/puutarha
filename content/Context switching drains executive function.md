@@ -12,6 +12,6 @@ confidence: fact
 
 # Context switching drains executive function
 
-Jumping between unrelated tasks leaves 'attention residue' that destroys cognitive flow and increases fatigue. Minimizing this mental toll is the exact reason why [[Automating toil prevents SRE burnout]].
+Jumping between unrelated tasks leaves 'attention residue' that destroys cognitive flow and increases fatigue. Minimizing this mental toll is the exact reason why [[Automating toil prevents SRE burnout]].[^1]
 
 [^1]: Leroy, S. (2009). Why is it so hard to do my work? Academy of Management Journal.

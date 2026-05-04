@@ -12,6 +12,6 @@ confidence: fact
 
 # Healthcare infrastructure determines societal resilience
 
-A nation's ability to absorb economic and viral shocks relies fundamentally on a healthcare system that does not bankrupt its citizens during routine emergencies. Universal access acts as an absolute baseline, proving [[Redundancy prevents single points of failure]].
+A nation's ability to absorb economic and viral shocks relies fundamentally on a healthcare system that does not bankrupt its citizens during routine emergencies. Universal access acts as an absolute baseline, proving [[Redundancy prevents single points of failure]].[^1]
 
 [^1]: World Health Organization. (2020). Health Systems Resilience.

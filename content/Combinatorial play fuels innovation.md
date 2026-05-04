@@ -12,6 +12,6 @@ confidence: stable
 
 # Combinatorial play fuels innovation
 
-Tinkering with unrelated concepts purely for amusement, without a strict utilitarian goal, frequently leads to massive breakthroughs. [[Custom keyboards blend electrical engineering with craft]] perfectly embody this playful synthesis.
+Tinkering with unrelated concepts purely for amusement, without a strict utilitarian goal, frequently leads to massive breakthroughs. [[Custom keyboards blend electrical engineering with craft]] perfectly embody this playful synthesis.[^1]
 
 [^1]: Einstein, A. (Letter to J. Hadamard). Discussing 'combinatory play'.

@@ -12,6 +12,6 @@ confidence: stable
 
 # Rainbow filament gradients require careful volume calculations
 
-Because silk rainbow filaments transition color over specific lengths of plastic, timing the color shift to match the Z-height of a custom Svalboard requires calculating the exact volume of the model. Here, math serves art, showing [[Creativity is connecting unassociated ideas]].
+Because silk rainbow filaments transition color over specific lengths of plastic, timing the color shift to match the Z-height of a custom Svalboard requires calculating the exact volume of the model. Here, math serves art, showing [[Creativity is connecting unassociated ideas]].[^1]
 
 [^1]: Community guides on color-shift timing for FDM.

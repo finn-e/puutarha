@@ -12,6 +12,6 @@ confidence: stable
 
 # Intentional tech use requires defining the tool's purpose
 
-Before adopting a new application, you must strictly define the specific problem it solves and limit its use to that boundary. This directly parallels how [[The Unix philosophy advocates doing one thing well]].
+Before adopting a new application, you must strictly define the specific problem it solves and limit its use to that boundary. This directly parallels how [[The Unix philosophy advocates doing one thing well]].[^1]
 
 [^1]: Newport, C. (2019). Digital Minimalism. Portfolio.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Friction determines the likelihood of an action
 
-If you want to stop doing something, increase the number of steps required to do it; if you want to start, reduce the steps to zero. [[Declarative OS configuration has limits for desktop use]] because the friction often outweighs the utility.
+If you want to stop doing something, increase the number of steps required to do it; if you want to start, reduce the steps to zero. [[Declarative OS configuration has limits for desktop use]] because the friction often outweighs the utility.[^1]
 
 [^1]: Clear, J. (2018). Atomic Habits. Avery.

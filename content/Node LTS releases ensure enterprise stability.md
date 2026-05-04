@@ -12,6 +12,6 @@ confidence: fact
 
 # Node LTS releases ensure enterprise stability
 
-Targeting Node 22 (LTS) ensures that the underlying runtime receives security patches and stable backports without introducing breaking API changes. Staying on Long Term Support pathways is crucial because [[Technical debt compounds non-linearly]].
+Targeting Node 22 (LTS) ensures that the underlying runtime receives security patches and stable backports without introducing breaking API changes. Staying on Long Term Support pathways is crucial because [[Technical debt compounds non-linearly]].[^1]
 
 [^1]: Node.js Foundation. (2024). Release Schedule Documentation.

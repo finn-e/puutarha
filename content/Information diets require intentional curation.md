@@ -12,6 +12,6 @@ confidence: stable
 
 # Information diets require intentional curation
 
-Just as junk food degrades physical health, consuming low-quality, high-outrage media degrades cognitive resilience. You must curate inputs, much like how [[Dietary constraints force careful nutritional planning]] for pets.
+Just as junk food degrades physical health, consuming low-quality, high-outrage media degrades cognitive resilience. You must curate inputs, much like how [[Dietary constraints force careful nutritional planning]] for pets.[^1]
 
 [^1]: Johnson, C. A. (2011). The Information Diet. O'Reilly Media.

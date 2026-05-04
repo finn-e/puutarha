@@ -12,6 +12,6 @@ confidence: stable
 
 # Creativity is connecting unassociated ideas
 
-True innovation rarely materializes from a vacuum; it is the novel synthesis of existing, seemingly disparate concepts. Blending logic with art, like how [[Rainbow filament gradients require careful volume calculations]], is a prime example.
+True innovation rarely materializes from a vacuum; it is the novel synthesis of existing, seemingly disparate concepts. Blending logic with art, like how [[Rainbow filament gradients require careful volume calculations]], is a prime example.[^1]
 
 [^1]: Jobs, S. (1996). Interview with Wired Magazine.

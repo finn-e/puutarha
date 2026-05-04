@@ -12,6 +12,6 @@ confidence: fact
 
 # Rail networks are highly efficient human transport systems
 
-A passenger train like the Empire Builder moves hundreds of humans across a continent with a fraction of the per-capita friction and energy required by individual cars. Because they consolidate movement, [[Bottlenecks determine the throughput of a system]].
+A passenger train like the Empire Builder moves hundreds of humans across a continent with a fraction of the per-capita friction and energy required by individual cars. Because they consolidate movement, [[Bottlenecks determine the throughput of a system]].[^1]
 
 [^1]: Vuchic, V. R. (2005). Urban Transit: Operations, Planning, and Economics. Wiley.

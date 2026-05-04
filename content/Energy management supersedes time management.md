@@ -12,6 +12,6 @@ confidence: stable
 
 # Energy management supersedes time management
 
-Time is a finite resource, but human energy oscillates throughout the day based on circadian rhythms. Organizing tasks by energy levels is highly efficient, much like how [[Photoperiodism triggers behavioral shifts in plants]].
+Time is a finite resource, but human energy oscillates throughout the day based on circadian rhythms. Organizing tasks by energy levels is highly efficient, much like how [[Photoperiodism triggers behavioral shifts in plants]].[^1]
 
 [^1]: Schwartz, T. (2007). Manage Your Energy, Not Your Time. Harvard Business Review.

@@ -12,6 +12,6 @@ confidence: stable
 
 # ZMK provides robust wireless split keyboard support
 
-By leveraging Zephyr RTOS, ZMK firmware allows independent keyboard halves to communicate flawlessly over Bluetooth Low Energy. This cuts the cord entirely, demonstrating why [[Simplicity is the hardest engineering metric to achieve]].
+By leveraging Zephyr RTOS, ZMK firmware allows independent keyboard halves to communicate flawlessly over Bluetooth Low Energy. This cuts the cord entirely, demonstrating why [[Simplicity is the hardest engineering metric to achieve]].[^1]
 
 [^1]: ZMK Contributors. (2024). ZMK Firmware Documentation.

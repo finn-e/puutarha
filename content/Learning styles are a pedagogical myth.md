@@ -12,6 +12,6 @@ confidence: fact
 
 # Learning styles are a pedagogical myth
 
-Decades of research prove that humans do not strictly learn better through 'visual' or 'auditory' methods alone; dual coding and context matter most. Clinging to learning styles shows how [[The illusion of competence tricks learners]].
+Decades of research prove that humans do not strictly learn better through 'visual' or 'auditory' methods alone; dual coding and context matter most. Clinging to learning styles shows how [[The illusion of competence tricks learners]].[^1]
 
 [^1]: Pashler, H., et al. (2008). Learning Styles: Concepts and Evidence. Psychological Science.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Tolerance testing is mandatory for mechanical assemblies
 
-When printing interlocking parts like custom keyboard switch plates, you must account for the natural thermal expansion and extrusion width of the filament. Just as in electronics, [[PCB design requires strict trace routing logic]].
+When printing interlocking parts like custom keyboard switch plates, you must account for the natural thermal expansion and extrusion width of the filament. Just as in electronics, [[PCB design requires strict trace routing logic]].[^1]
 
 [^1]: MakerBot. (2018). Tolerances and Clearances for 3D Printed Assemblies.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Screen time boundaries protect deep work
 
-Physical separation from your smartphone is often the only reliable way to achieve extended flow states. Relying on sheer willpower fails, because [[Environment design is more reliable than willpower]].
+Physical separation from your smartphone is often the only reliable way to achieve extended flow states. Relying on sheer willpower fails, because [[Environment design is more reliable than willpower]].[^1]
 
 [^1]: Ward, A. F., et al. (2017). Brain Drain: The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity.

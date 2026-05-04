@@ -12,6 +12,6 @@ confidence: stable
 
 # Weekly reviews close open loops
 
-Regularly auditing tasks, calendar events, and notes clears mental clutter and resets the system. This maintenance is mandatory because [[Evergreen notes require maintenance]].
+Regularly auditing tasks, calendar events, and notes clears mental clutter and resets the system. This maintenance is mandatory because [[Evergreen notes require maintenance]].[^1]
 
 [^1]: Allen, D. (2001). Getting Things Done. Penguin Books.

@@ -12,6 +12,6 @@ confidence: fact
 
 # Right to repair extends hardware lifespans
 
-Devices like the Framework laptop reject planned obsolescence by making every component modular, documented, and user-replaceable. This architectural choice actively fights the reality that [[Systems decay without active maintenance]].
+Devices like the Framework laptop reject planned obsolescence by making every component modular, documented, and user-replaceable. This architectural choice actively fights the reality that [[Systems decay without active maintenance]].[^1]
 
 [^1]: Wiens, K. (2020). The Right to Repair movement principles. iFixit.
