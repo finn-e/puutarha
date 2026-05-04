@@ -1,14 +1,12 @@
----
 publish: true
 gemini: true
 tags:
   - creativity
   - 3d_printing
-created: '2026-05-04 11:58'
-last_modified: '2026-05-04 11:58:00'
+created: '2026-05-04 14:40'
+last_modified: '2026-05-04 14:40:00'
 status: evergreen
 confidence: stable
----
 
 # Creativity is connecting unassociated ideas
 

@@ -1,15 +1,15 @@
----
 publish: true
 gemini: true
-tags: [learning, game_studies]
-created: 2026-05-04 11:58:00
-last_modified: 2026-05-04 12:49:22
+tags:
+  - learning
+  - game_studies
+created: '2026-05-04 14:40'
+last_modified: '2026-05-04 14:40:00'
 status: evergreen
 confidence: fact
----
 
 # Active recall is superior to passive review
 
-Forcing the brain to retrieve an answer without looking at the source material physically strengthens the neural pathway, unlike re-reading. Memorizing complex routes, like when [[Trophy hunting requires meticulous project management]], relies entirely on this.[^1]
+Forcing the brain to retrieve an answer without looking at the source material physically strengthens the neural pathway, unlike re-reading. Memorizing complex routes, like when [[Guide reading shifts gaming from exploration to project management]], relies entirely on this.[^1]
 
-[^1]: Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning. Psychological Science.
+[^1]: Roediger, H. L. (2006). Test-enhanced learning.
