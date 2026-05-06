@@ -1,13 +1,25 @@
+<<<<<<< HEAD
+---
+=======
+>>>>>>> origin/trunk
 publish: true
 gemini: true
 tags:
   - kubernetes
   - productivity
   - pkm
+<<<<<<< HEAD
+created: '2026-05-04 17:00'
+last_modified: '2026-05-04 17:00:00'
+status: evergreen
+confidence: theory
+---
+=======
 created: '2026-05-04 14:40'
 last_modified: '2026-05-04 14:40:00'
 status: evergreen
 confidence: theory
+>>>>>>> origin/trunk
 
 # Homelab Kubernetes mirrors enterprise production environments
 

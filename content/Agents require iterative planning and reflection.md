@@ -1,9 +1,17 @@
 ---
 publish: true
 gemini: true
+<<<<<<< HEAD
+tags:
+  - ai
+  - systems_thinking
+created: '2026-05-04 17:00'
+last_modified: '2026-05-04 17:00:00'
+=======
 tags: [ai, systems_thinking]
 created: 2026-05-04 11:58:00
 last_modified: 2026-05-04 12:51:10
+>>>>>>> origin/trunk
 status: evergreen
 confidence: stable
 ---

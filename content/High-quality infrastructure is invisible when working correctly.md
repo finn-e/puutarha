@@ -1,11 +1,17 @@
 ---
 publish: true
 gemini: true
+<<<<<<< HEAD
+tags: [global_infrastructure, site_reliability]
+created: 2026-05-04 05:00:00
+last_modified: 2026-05-04 06:02:54
+=======
 tags:
   - global_infrastructure
   - site_reliability
 created: '2026-05-04 11:58'
 last_modified: '2026-05-04 11:58:00'
+>>>>>>> origin/trunk
 status: evergreen
 confidence: stable
 ---
